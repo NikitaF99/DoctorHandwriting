@@ -1,0 +1,5 @@
+BATCH_SIZE = 32
+EPOCHS = 50
+MODEL_PATH = './crnn_model7.pth'
+HEIGHT = 32
+WIDTH = 256
